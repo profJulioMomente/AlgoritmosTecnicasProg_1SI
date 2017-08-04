@@ -3,10 +3,10 @@
 #include <stdlib.h>
 
 /*
-Comentário de várias linhas
+Comentario de varias linhas
 */
 
-//Função Principal
+//Funcao Principal
 main() {
 	int valor_inteiro;
 	float valor_real;
@@ -24,8 +24,8 @@ main() {
 	 Especificadores de formato:
 	 	%d - Inteiros
 	 	%f - Real com ponto flutuante
-	 	%e - Real em notação científica
-	 	%c - Um único caractere
+	 	%e - Real em notacao cientifica
+	 	%c - Um unico caractere
 	 	%s - Palavra ou texto
 	*/
 	printf("Letra: %c \nInteiro: %d \nReal: %f\n", letra, valor_inteiro, valor_real);
